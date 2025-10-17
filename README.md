@@ -1,4 +1,4 @@
-# Inside-the-MLP-A-Domain-Specific-Language-for-Mathematical-Exploration
+# Inside the MLP: A Domain Specific Language for Mathematical Exploration
 This is a prototype of a domain-specific language (DSL) that helps users *see and understand* the inner mathematics of multilayer perceptrons (MLPs) through **matrix representations and visual projections**.
 
 <img width="1329" height="638" alt="image" src="https://github.com/user-attachments/assets/67fa8f50-0857-4203-8eae-3787cd3690ed" />
