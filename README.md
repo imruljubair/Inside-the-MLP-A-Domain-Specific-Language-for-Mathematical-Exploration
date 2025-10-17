@@ -15,6 +15,8 @@ Users can describe the data flow and layer transformations of an MLP.
 - **4** → number of samples (e.g., images in a batch).  
 - Each arrow `->` defines how one feature space is linearly projected into another (e.g., `5 -> 7` transforms a 5-dimensional feature space into 7 dimensions through a weight matrix).
 
+![abhdsl](https://github.com/user-attachments/assets/058535f0-1ae0-44c4-b8bf-8ba9028282f1)
+
 The program automatically generates interactive visualizations showing:
 
 - 🧩 **Matrix views** — each layer’s transformation represented by color-coded weight matrices and resulting activations. It utilizes Prof. Tom Yeh's framework to present the maths behind AI, widely knowns as [AI by Hand](https://www.byhand.ai/).
