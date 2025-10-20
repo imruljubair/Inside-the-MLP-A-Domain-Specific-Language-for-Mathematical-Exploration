@@ -19,7 +19,7 @@ Users can describe the data flow and layer transformations of an MLP.
 
 The program automatically generates interactive visualizations showing:
 
-- 🧩 **Matrix views** — each layer’s transformation represented by color-coded weight matrices and resulting activations. It utilizes Prof. Tom Yeh's framework to present the maths behind AI, widely knowns as [AI by Hand](https://www.byhand.ai/).
+- 🧩 **Matrix views** — each layer’s transformation represented by color-coded weight matrices and resulting activations. It utilizes **Prof. Tom Yeh**'s framework to present the maths behind AI, widely knowns as [AI by Hand](https://www.byhand.ai/).
 - 🔗 **Network graph** — a structural view of neurons and their connections.  
 - 💻 **Code view** — the equivalent PyTorch implementation for direct experimentation.
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/1e0a39a1-ce86-4ccf-aba0-3194f24792ff
 
 ## 🚀 Why It Matters
 
-Neural networks are often treated as black boxes. **AIBYHand** opens that box by showing how every linear projection, activation, and feature transformation is realized through matrices.  
+Neural networks are often treated as black boxes. The work opens that box by showing how every linear projection, activation, and feature transformation is realized through matrices.  
 It makes abstract math *visible*, helping users connect deep learning theory with actual data flow.
 
 By bridging **symbolic representation → matrix computation → executable PyTorch code**,  
